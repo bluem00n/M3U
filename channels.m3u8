@@ -2801,7 +2801,7 @@ http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30298&extension
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30297&extension=ts
 #EXTINF:-1 tvg-name="Globo Now" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="Globo Now" group-title="PT",(PT) Globo Now
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=51473&extension=ts
-#EXTINF:-1 tvg-name="|=| PT - KIDS |=|" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="|=| PT - KIDS |=|" group-title="Unknown",|=| PT - KIDS |=|
+#EXTINF:-1 tvg-name="" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="" group-title="Unknown",|=| PT - KIDS |=|
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30294&extension=ts
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="Cartoon Network" group-title="PT",(PT) Cartoon Network
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30291&extension=ts
@@ -2821,7 +2821,7 @@ http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30288&extension
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=51443&extension=ts
 #EXTINF:-1 tvg-name="SIC Kids" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="SIC Kids" group-title="PT",(PT) SIC Kids
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=51438&extension=ts
-#EXTINF:-1 tvg-name="|=| PT - DOCU |=|" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="|=| PT - DOCU |=|" group-title="Unknown",|=| PT - DOCU |=|
+#EXTINF:-1 tvg-name="" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="" group-title="Unknown",|=| PT - DOCU |=|
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30286&extension=ts
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="Nat Geo Wild" group-title="PT",(PT) Nat Geo Wild
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30285&extension=ts
@@ -2839,7 +2839,7 @@ http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30280&extension
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30271&extension=ts
 #EXTINF:-1 tvg-name="Historia" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="Historia" group-title="PT",(PT) Historia
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30281&extension=ts
-#EXTINF:-1 tvg-name="|=| PT - OTHER |=|" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="|=| PT - OTHER |=|" group-title="Unknown",|=| PT - OTHER |=|
+#EXTINF:-1 tvg-name="" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="" group-title="Unknown",|=| PT - OTHER |=|
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30278&extension=ts
 #EXTINF:-1 tvg-name="CBS Reality" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/portugalvlag.png" tvg-id="CBS Reality" group-title="PT",(PT) CBS Reality
 http://iptv.darktv.in/play/live.php?mac=00:1A:79:A1:35:29&stream=30275&extension=ts
