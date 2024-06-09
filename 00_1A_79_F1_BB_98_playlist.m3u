@@ -1,4 +1,4 @@
-#EXTM3U
+# DE Channels
 #EXTINF:-1,(DE) Big Brother
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=171057&extension=ts
 #EXTINF:-1,(DE) Sky Sport F1 4K
@@ -725,6 +725,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=7523&extension
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=7524&extension=ts
 #EXTINF:-1,(DE) Spiegel Geschichte 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=7525&extension=ts
+
+# FR Channels
 #EXTINF:-1,(FR) TF1 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=37743&extension=ts
 #EXTINF:-1,(FR) France 2 4K
@@ -999,6 +1001,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=37758&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=37757&extension=ts
 #EXTINF:-1,(FR) RMC Sport 4 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=37756&extension=ts
+
+# IT Channels
 #EXTINF:-1,(IT) Rai 1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=38566&extension=ts
 #EXTINF:-1,(IT) Rai 2 HD
@@ -1195,6 +1199,10 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51528&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42742&extension=ts
 #EXTINF:-1,(IT) Motor Trend 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=89787&extension=ts
+#EXTINF:-1,(IT) QVC 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129222&extension=ts
+
+# UK Channels
 #EXTINF:-1,(UK) BBC 1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=38260&extension=ts
 #EXTINF:-1,(UK) BBC 2 HD
@@ -1431,6 +1439,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=38410&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=38414&extension=ts
 #EXTINF:-1,(UK) Sky Sports Premier League HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=38401&extension=ts
+
+# ES Channels
 #EXTINF:-1,(ES) DAZN F1 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=170763&extension=ts
 #EXTINF:-1,(ES) LA 1 4k+
@@ -1591,6 +1601,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=56339&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=30257&extension=ts
 #EXTINF:-1,(ES) Toros TV HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=30256&extension=ts
+
+# US Channels
 #EXTINF:-1,(US) NASA TV Public
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=122594&extension=ts
 #EXTINF:-1,(US) ABC news
@@ -1737,6 +1749,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47349&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47286&extension=ts
 #EXTINF:-1,(US) ) O.W.N (Oprah Winfrey Network) HD+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47320&extension=ts
+
+# PT Channels
 #EXTINF:-1,(PT) Sport TV 4 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=170764&extension=ts
 #EXTINF:-1,(PT) TCV
@@ -1945,6 +1959,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51451&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51431&extension=ts
 #EXTINF:-1,(PT) CMTV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=30277&extension=ts
+
+# PL Channels
 #EXTINF:-1,(PL) Novela Plus
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=166411&extension=ts
 #EXTINF:-1,(PL) TVN 4K+
@@ -2273,8 +2289,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129225&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129224&extension=ts
 #EXTINF:-1,(PL) Canal Plus Domo 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129223&extension=ts
-#EXTINF:-1,(IT) QVC 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129222&extension=ts
 #EXTINF:-1,(PL) Antena
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=129219&extension=ts
 #EXTINF:-1,(PL) History 2 4K+
@@ -2297,6 +2311,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51389&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42944&extension=ts
 #EXTINF:-1,(PL) Fight Klub 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=119657&extension=ts
+
+# SW Channels
 #EXTINF:-1,(SW) SVT1 HD+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=134538&extension=ts
 #EXTINF:-1,(SW) SVT1 HD
@@ -2443,6 +2459,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39039&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39106&extension=ts
 #EXTINF:-1,✦✦✦ NORWAY ✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46973&extension=ts
+
+# NO Channels
 #EXTINF:-1,(NO) NRK 1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44849&extension=ts
 #EXTINF:-1,(NO) NRK 2 HD
@@ -2515,6 +2533,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44898&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44897&extension=ts
 #EXTINF:-1,(NO) C More Stars 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44896&extension=ts
+
+# FI Channels
 #EXTINF:-1,(FI) Yle TV1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=53519&extension=ts
 #EXTINF:-1,(FI) Yle TV2 4K+
@@ -2567,6 +2587,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=53543&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=53544&extension=ts
 #EXTINF:-1,✦✦✦ DENMARK ✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41864&extension=ts
+
+# DK Channels
 #EXTINF:-1,(DK) DR1 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41911&extension=ts
 #EXTINF:-1,(DK) DR2 HD
@@ -2653,6 +2675,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41888&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41887&extension=ts
 #EXTINF:-1,✦✦✦✦ ALBANIA ✦✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47383&extension=ts
+
+# AL Channels
 #EXTINF:-1,(AL) Big Brother 1 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=140115&extension=ts
 #EXTINF:-1,(AL) Big Brother 2 4K+
@@ -2815,30 +2839,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47424&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47425&extension=ts
 #EXTINF:-1,(AL) Explorer Shkence
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47426&extension=ts
-#EXTINF:-1,(KS) RTK 1 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47428&extension=ts
-#EXTINF:-1,(KS) RTK 1 HD+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47842&extension=ts
-#EXTINF:-1,(KS) RTK 2 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47366&extension=ts
-#EXTINF:-1,(KS) RTK 2 HD+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47844&extension=ts
-#EXTINF:-1,(KS) RTK 3 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47367&extension=ts
-#EXTINF:-1,(KS) RTK 4 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47368&extension=ts
-#EXTINF:-1,(KS) Kanal 10 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47427&extension=ts
-#EXTINF:-1,(KS) Klan Kosova HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47429&extension=ts
-#EXTINF:-1,(KS) Big Brother 1 4K
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149639&extension=ts
-#EXTINF:-1,(KS) Big Brother 2 4K
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149640&extension=ts
-#EXTINF:-1,(KS) Super Sport Kosova 1
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47430&extension=ts
-#EXTINF:-1,(KS) Super Sport Kosova 2
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47431&extension=ts
 #EXTINF:-1,(AL) Film DY
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47369&extension=ts
 #EXTINF:-1,(AL) Film NJE HD
@@ -2943,6 +2943,34 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=50529&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47396&extension=ts
 #EXTINF:-1,(AL) RTSH Sport 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=50530&extension=ts
+
+# KS Channels
+#EXTINF:-1,(KS) RTK 1 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47428&extension=ts
+#EXTINF:-1,(KS) RTK 1 HD+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47842&extension=ts
+#EXTINF:-1,(KS) RTK 2 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47366&extension=ts
+#EXTINF:-1,(KS) RTK 2 HD+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47844&extension=ts
+#EXTINF:-1,(KS) RTK 3 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47367&extension=ts
+#EXTINF:-1,(KS) RTK 4 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47368&extension=ts
+#EXTINF:-1,(KS) Kanal 10 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47427&extension=ts
+#EXTINF:-1,(KS) Klan Kosova HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47429&extension=ts
+#EXTINF:-1,(KS) Big Brother 1 4K
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149639&extension=ts
+#EXTINF:-1,(KS) Big Brother 2 4K
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149640&extension=ts
+#EXTINF:-1,(KS) Super Sport Kosova 1
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47430&extension=ts
+#EXTINF:-1,(KS) Super Sport Kosova 2
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47431&extension=ts
+
+# RS Channels
 #EXTINF:-1,(RS) Arena Sport 1 Premium HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=151806&extension=ts
 #EXTINF:-1,(RS) Arena Sport 2 Premium HD
@@ -3005,8 +3033,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39673&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39672&extension=ts
 #EXTINF:-1,(RS) History Channel
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39682&extension=ts
-#EXTINF:-1,(ExYu) Fox
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39387&extension=ts
 #EXTINF:-1,(RS) Arena Sport 5 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39611&extension=ts
 #EXTINF:-1,(RS) Arena Sport 4 HD
@@ -3101,8 +3127,54 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39700&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39709&extension=ts
 #EXTINF:-1,(RS) Grand TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=50263&extension=ts
+
+# ExYu Channels
+#EXTINF:-1,(ExYu) Fox
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39387&extension=ts
 #EXTINF:-1,(ExYu) Fox Life
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39386&extension=ts
+#EXTINF:-1,(ExYu) AMC 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100515&extension=ts
+#EXTINF:-1,(ExYu) AXN
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100516&extension=ts
+#EXTINF:-1,(ExYu) Diva
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100517&extension=ts
+#EXTINF:-1,(ExYu) FilmBox Extra 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100518&extension=ts
+#EXTINF:-1,(ExYu) FilmBox Plus
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100519&extension=ts
+#EXTINF:-1,(ExYu) Fox Movies
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100520&extension=ts
+#EXTINF:-1,(ExYu) Kino TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100521&extension=ts
+#EXTINF:-1,(ExYu) M1 Film
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100522&extension=ts
+#EXTINF:-1,(ExYu) Pickbox
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100523&extension=ts
+#EXTINF:-1,(ExYu) SportKlub 4K
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49986&extension=ts
+#EXTINF:-1,(ExYu) Sportklub 1 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49987&extension=ts
+#EXTINF:-1,(ExYu) Sportklub 2 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49988&extension=ts
+#EXTINF:-1,(ExYu) SportKlub 3 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49989&extension=ts
+#EXTINF:-1,(ExYu) Sportklub 1
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49990&extension=ts
+#EXTINF:-1,(ExYu) Sportklub 2
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49991&extension=ts
+#EXTINF:-1,(ExYu) Sportklub 3
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49992&extension=ts
+#EXTINF:-1,(ExYu) SportKlub 4
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49993&extension=ts
+#EXTINF:-1,(ExYu) SportKlub 5
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49994&extension=ts
+#EXTINF:-1,(ExYu) SportKlub 6
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49995&extension=ts
+#EXTINF:-1,(ExYu)  HNTV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=118224&extension=ts
+
+# CZ Channels
 #EXTINF:-1,(CZ) CT 1 4K+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=104986&extension=ts
 #EXTINF:-1,(CZ) CT 2 4K+
@@ -3185,6 +3257,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46458&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42125&extension=ts
 #EXTINF:-1,(CZ) Relax
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46491&extension=ts
+
+# BH Channels
 #EXTINF:-1,(BH) ATV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100492&extension=ts
 #EXTINF:-1,(BH) Al Jazeera Balkans
@@ -3247,6 +3321,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39434&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39432&extension=ts
 #EXTINF:-1,(BH) USK HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39450&extension=ts
+
+# HR Channels
 #EXTINF:-1,(HR) Hrt 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39603&extension=ts
 #EXTINF:-1,(HR) Hrt 2
@@ -3317,6 +3393,24 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39569&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39583&extension=ts
 #EXTINF:-1,(HR) Viasat History
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39582&extension=ts
+#EXTINF:-1,(HR) Arena Sport 1 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39557&extension=ts
+#EXTINF:-1,(HR) Arena Sport 2 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39556&extension=ts
+#EXTINF:-1,(HR) Arena Sport 3 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39555&extension=ts
+#EXTINF:-1,(HR) Arena Sport 4 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39554&extension=ts
+#EXTINF:-1,(HR) Arena Sport 5 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39553&extension=ts
+#EXTINF:-1,(HR) Planet Sport 1 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49258&extension=ts
+#EXTINF:-1,(HR) Planet Sport 2 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49259&extension=ts
+#EXTINF:-1,(HR) Planet Sport 3 HD
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49260&extension=ts
+
+# MK Channels
 #EXTINF:-1,(MK) 24 Vesti
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41375&extension=ts
 #EXTINF:-1,(MK) Alfa
@@ -3341,6 +3435,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41381&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41363&extension=ts
 #EXTINF:-1,(MK) Telma
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41383&extension=ts
+
+# SL Channels
 #EXTINF:-1,(SL) Slovenia TV 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46383&extension=ts
 #EXTINF:-1,(SL) Slovenia TV 2
@@ -3369,62 +3465,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46397&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46398&extension=ts
 #EXTINF:-1,✦✦✦✦ PINK ✦✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46977&extension=ts
-#EXTINF:-1,(ExYu) AMC 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100515&extension=ts
-#EXTINF:-1,(ExYu) AXN
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100516&extension=ts
-#EXTINF:-1,(ExYu) Diva
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100517&extension=ts
-#EXTINF:-1,(ExYu) FilmBox Extra 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100518&extension=ts
-#EXTINF:-1,(ExYu) FilmBox Plus
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100519&extension=ts
-#EXTINF:-1,(ExYu) Fox Movies
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100520&extension=ts
-#EXTINF:-1,(ExYu) Kino TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100521&extension=ts
-#EXTINF:-1,(ExYu) M1 Film
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100522&extension=ts
-#EXTINF:-1,(ExYu) Pickbox
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100523&extension=ts
-#EXTINF:-1,(ExYu) SportKlub 4K
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49986&extension=ts
-#EXTINF:-1,(ExYu) Sportklub 1 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49987&extension=ts
-#EXTINF:-1,(ExYu) Sportklub 2 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49988&extension=ts
-#EXTINF:-1,(ExYu) SportKlub 3 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49989&extension=ts
-#EXTINF:-1,(ExYu) Sportklub 1
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49990&extension=ts
-#EXTINF:-1,(ExYu) Sportklub 2
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49991&extension=ts
-#EXTINF:-1,(ExYu) Sportklub 3
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49992&extension=ts
-#EXTINF:-1,(ExYu) SportKlub 4
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49993&extension=ts
-#EXTINF:-1,(ExYu) SportKlub 5
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49994&extension=ts
-#EXTINF:-1,(ExYu) SportKlub 6
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49995&extension=ts
-#EXTINF:-1,(ExYu)  HNTV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=118224&extension=ts
-#EXTINF:-1,(HR) Arena Sport 1 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39557&extension=ts
-#EXTINF:-1,(HR) Arena Sport 2 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39556&extension=ts
-#EXTINF:-1,(HR) Arena Sport 3 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39555&extension=ts
-#EXTINF:-1,(HR) Arena Sport 4 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39554&extension=ts
-#EXTINF:-1,(HR) Arena Sport 5 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39553&extension=ts
-#EXTINF:-1,(HR) Planet Sport 1 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49258&extension=ts
-#EXTINF:-1,(HR) Planet Sport 2 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49259&extension=ts
-#EXTINF:-1,(HR) Planet Sport 3 HD
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=49260&extension=ts
+
+# AR Channels
 #EXTINF:-1,(AR) Tayba TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=167653&extension=ts
 #EXTINF:-1,(AR) Hooosh Extra TV
@@ -3637,8 +3679,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=167550&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=167549&extension=ts
 #EXTINF:-1,(AR) AL GHAD AL ARABY 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=167548&extension=ts
-#EXTINF:-1,(LB) Al Jadeed
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=161949&extension=ts
 #EXTINF:-1,(AR) AL Balad
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=154311&extension=ts
 #EXTINF:-1,(AR) Sudan Drama
@@ -4097,22 +4137,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41778&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41682&extension=ts
 #EXTINF:-1,(AR) Al Aan TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41689&extension=ts
-#EXTINF:-1,(LB) Al-Iman TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106310&extension=ts
-#EXTINF:-1,(LB) Télé Liban
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106308&extension=ts
-#EXTINF:-1,(MA) Chada TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106174&extension=ts
-#EXTINF:-1,(MA) M24
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106173&extension=ts
-#EXTINF:-1,(IR) Simaye Azadi
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106172&extension=ts
-#EXTINF:-1,(UAE) Daawah TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106171&extension=ts
-#EXTINF:-1,(LB) Lana +
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106170&extension=ts
-#EXTINF:-1,(TN) Watania 1
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106167&extension=ts
 #EXTINF:-1,(AR)  Aden TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106133&extension=ts
 #EXTINF:-1,(AR) Alyaum Channel
@@ -4191,10 +4215,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41777&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41675&extension=ts
 #EXTINF:-1,(AR) JORDAN TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41709&extension=ts
-#EXTINF:-1,(JO) Minbij TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110193&extension=ts
-#EXTINF:-1,(JO) Jordan Now TV
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110192&extension=ts
 #EXTINF:-1,(AR) Karameesh
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41597&extension=ts
 #EXTINF:-1,(AR) LBC HD
@@ -4259,8 +4279,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41690&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41659&extension=ts
 #EXTINF:-1,(AR) Wanasah
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41678&extension=ts
-#EXTINF:-1,(TN) Watania 1 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42028&extension=ts
 #EXTINF:-1,(AR) Tunisia 1 FHD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=154154&extension=ts
 #EXTINF:-1,(AR) Tunisia Nat 1
@@ -4273,8 +4291,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=154155&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42022&extension=ts
 #EXTINF:-1,(AR) Zitouna TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42017&extension=ts
-#EXTINF:-1,(SA) Alaraby TV 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110173&extension=ts
 #EXTINF:-1,(AR) Al Mustakillah TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42016&extension=ts
 #EXTINF:-1,(AR) Attessia TV
@@ -4531,10 +4547,6 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=153074&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=153073&extension=ts
 #EXTINF:-1,(AR) Numidia TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41806&extension=ts
-#EXTINF:-1,(IQ) Iraqia News 4K+
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=122580&extension=ts
-#EXTINF:-1,✦✦✦✦ SYRIA ✦✦✦✦
-http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41594&extension=ts
 #EXTINF:-1,(AR) Syria TV HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41578&extension=ts
 #EXTINF:-1,(AR) Syrian Drama TV
@@ -4693,6 +4705,26 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41761&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41764&extension=ts
 #EXTINF:-1,✦✦✦ PERSIAN ✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46974&extension=ts
+
+# LB Channels
+#EXTINF:-1,(LB) Al Jadeed
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=161949&extension=ts
+#EXTINF:-1,(LB) Al-Iman TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106310&extension=ts
+#EXTINF:-1,(LB) Télé Liban
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106308&extension=ts
+#EXTINF:-1,(LB) Lana +
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106170&extension=ts
+
+# MA Channels
+#EXTINF:-1,(MA) Chada TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106174&extension=ts
+#EXTINF:-1,(MA) M24
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106173&extension=ts
+
+# IR Channels
+#EXTINF:-1,(IR) Simaye Azadi
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106172&extension=ts
 #EXTINF:-1,(IR) Irib TV 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46861&extension=ts
 #EXTINF:-1,(IR) Irib TV 2
@@ -4819,6 +4851,34 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=153514&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=153506&extension=ts
 #EXTINF:-1,(IR) TIN TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=153497&extension=ts
+
+# UAE Channels
+#EXTINF:-1,(UAE) Daawah TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106171&extension=ts
+
+# TN Channels
+#EXTINF:-1,(TN) Watania 1
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=106167&extension=ts
+#EXTINF:-1,(TN) Watania 1 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=42028&extension=ts
+
+# JO Channels
+#EXTINF:-1,(JO) Minbij TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110193&extension=ts
+#EXTINF:-1,(JO) Jordan Now TV
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110192&extension=ts
+
+# SA Channels
+#EXTINF:-1,(SA) Alaraby TV 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=110173&extension=ts
+
+# IQ Channels
+#EXTINF:-1,(IQ) Iraqia News 4K+
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=122580&extension=ts
+#EXTINF:-1,✦✦✦✦ SYRIA ✦✦✦✦
+http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=41594&extension=ts
+
+# AZ Channels
 #EXTINF:-1,(AZ) ARB
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100390&extension=ts
 #EXTINF:-1,(AZ) ARB 24
@@ -4851,6 +4911,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=31398&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=31397&extension=ts
 #EXTINF:-1,(AZ) Medeniyyet TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=31395&extension=ts
+
+# KU Channels
 #EXTINF:-1,(KU) Kurdish Muzik 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=141582&extension=ts
 #EXTINF:-1,(KU) Suryoyo Sat
@@ -4929,6 +4991,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=103877&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=105214&extension=ts
 #EXTINF:-1,✦✦✦✦ INDIA ✦✦✦✦
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=47815&extension=ts
+
+# IN Channels
 #EXTINF:-1,(IN) Zee TV HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=40024&extension=ts
 #EXTINF:-1,(IN) Zee Action
@@ -5023,6 +5087,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39956&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=39955&extension=ts
 #EXTINF:-1,(IN) B4U Kadak
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=40038&extension=ts
+
+# PK Channels
 #EXTINF:-1,(PK) 24 News
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156634&extension=ts
 #EXTINF:-1,(PK) 8XM
@@ -5229,6 +5295,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156534&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156533&extension=ts
 #EXTINF:-1,(PK) Zindagi TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156532&extension=ts
+
+# BG Channels
 #EXTINF:-1,(BG) BNT 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=56163&extension=ts
 #EXTINF:-1,(BG) BNT 2
@@ -5475,6 +5543,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=56227&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=56289&extension=ts
 #EXTINF:-1,(BG) Viasat Explorer / Spice
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=56287&extension=ts
+
+# RU Channels
 #EXTINF:-1,(RU) NTV Mir HD+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=120032&extension=ts
 #EXTINF:-1,(RU) RTR Planeta HD+
@@ -5867,6 +5937,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=55846&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=55915&extension=ts
 #EXTINF:-1,(RU) Match Igra HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=55787&extension=ts
+
+# UA Channels
 #EXTINF:-1,(UA) 1+1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=140260&extension=ts
 #EXTINF:-1,(UA) 1+1 (Backup)
@@ -5955,6 +6027,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=140263&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=140264&extension=ts
 #EXTINF:-1,(UA) K1 HD+
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=140265&extension=ts
+
+# BR Channels
 #EXTINF:-1,(BR) 1001 Noites
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156885&extension=ts
 #EXTINF:-1,(BR) 24 Kitchen
@@ -6457,6 +6531,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156637&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156636&extension=ts
 #EXTINF:-1,(BR) ZooMoo Kids
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=156635&extension=ts
+
+# AF Channels
 #EXTINF:-1,(AF) History HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=157335&extension=ts
 #EXTINF:-1,(AF) Travel Channel HD
@@ -6619,6 +6695,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=157257&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=157256&extension=ts
 #EXTINF:-1,(AF) SuperSport Maximo 1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=157255&extension=ts
+
+# RO Channels
 #EXTINF:-1,(RO) TVR 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=31381&extension=ts
 #EXTINF:-1,(RO) TVR 2
@@ -6835,6 +6913,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=121928&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=31337&extension=ts
 #EXTINF:-1,(RO) The Fishing & Hunting
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=121926&extension=ts
+
+# GR Channels
 #EXTINF:-1,(GR) EPT 1
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=34562&extension=ts
 #EXTINF:-1,(GR) EPT 2
@@ -6935,6 +7015,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=34487&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=34486&extension=ts
 #EXTINF:-1,(GR) Food Network HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=90505&extension=ts
+
+# ARM Channels
 #EXTINF:-1,(ARM) AABC TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=34613&extension=ts
 #EXTINF:-1,(ARM) Ararat 4K+
@@ -6993,6 +7075,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=98117&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=100486&extension=ts
 #EXTINF:-1,(ARM) Tava TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=98109&extension=ts
+
+# AFG Channels
 #EXTINF:-1,(AFG) Ariana Afghanistan International TV HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=99193&extension=ts
 #EXTINF:-1,(AFG) Arezo TV
@@ -7031,6 +7115,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=105054&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=105053&extension=ts
 #EXTINF:-1,(AFG) Khurshid TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=105052&extension=ts
+
+# HU Channels
 #EXTINF:-1,(HU) M1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51191&extension=ts
 #EXTINF:-1,(HU) M2 HD
@@ -7087,6 +7173,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51230&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51235&extension=ts
 #EXTINF:-1,(HU) Viasat 6
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=51236&extension=ts
+
+# CH Channels
 #EXTINF:-1,(CH) RSI La 1 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=50590&extension=ts
 #EXTINF:-1,(CH) RSI La 2 4K
@@ -7151,6 +7239,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=170283&extensi
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=170282&extension=ts
 #EXTINF:-1,(CH) Discovery Channel 4K
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149589&extension=ts
+
+# AU Channels
 #EXTINF:-1,(AU) Orf 1 HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44821&extension=ts
 #EXTINF:-1,(AU) Orf 2 HD
@@ -7179,6 +7269,8 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44816&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=44815&extension=ts
 #EXTINF:-1,(AU) Melodie TV
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=149592&extension=ts
+
+# BA Channels
 #EXTINF:-1,(BA) Banglavision
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46560&extension=ts
 #EXTINF:-1,(BA) Channel 24
@@ -7199,3 +7291,5 @@ http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46568&extensio
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46570&extension=ts
 #EXTINF:-1,(BA) Zee Bangla HD
 http://darktv.eu:25461/play/live.php?mac=00:1A:79:F1:BB:98&stream=46571&extension=ts
+
+
